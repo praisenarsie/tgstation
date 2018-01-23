@@ -1186,6 +1186,7 @@ IF YOU MODIFY THE PRODUCTS LIST OF A MACHINE, MAKE SURE TO UPDATE ITS RESUPPLY C
 		/obj/item/storage/pill_bottle/dice = 10,
 		/obj/item/toy/cards/deck/cas = 3,
 		/obj/item/toy/cards/deck/cas/black = 3)
+		/obj/item/toy/snappop = 4)
 	contraband = list(/obj/item/dice/fudge = 9)
 	refill_canister = /obj/item/vending_refill/games
 
