@@ -90,5 +90,5 @@
 /obj/item/vending_refill/games
 	machine_name = "\improper Good Clean Fun"
 	icon_state = "refill_games"
-	charges = list(7, 3, 0) //of 21 standard, 9 contraband
-	init_charges = list(7, 3, 0)
+	charges = list(9, 3, 0) //of 27 standard, 9 contraband
+	init_charges = list(9, 3, 0)
