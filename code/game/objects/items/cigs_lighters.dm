@@ -640,6 +640,7 @@ CIGARETTE PACKETS ARE IN FANCY.DM
 ///////////////
 //VAPE NATION//
 ///////////////
+/*
 /obj/item/clothing/mask/vape
 	name = "\improper E-Cigarette"
 	desc = "A classy and highly sophisticated electronic cigarette, for classy and dignified gentlemen. A warning label reads \"Warning: Do not fill with flammable materials.\""//<<< i'd vape to that.
@@ -808,3 +809,4 @@ CIGARETTE PACKETS ARE IN FANCY.DM
 
 	if(reagents && reagents.total_volume)
 		hand_reagents()
+*/
